@@ -74,7 +74,7 @@
 
 > ## Char-level-CNN
 
-<img src="./images/형태소3.png" width="600px" height="350px" title="px(픽셀) 크기 설정" alt="db"></img><br/>
+
 
     1. 글자 단위의 Convolutional Network 문서 분류에서 높은 성능을 보인다.
     2. 작은 데이터셋에서는 전통적인 NLP방식이 DL방식보다 더 높은 성능을 보인다.
