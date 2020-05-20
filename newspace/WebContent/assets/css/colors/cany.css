@@ -1,0 +1,773 @@
+
+/*Preloader*/
+#loading{
+    background-color: #21bace;
+}
+/*
+Home one css
+*/
+h1 span{
+    color:#21bace;
+}
+
+h2 span{
+    color:#21bace;
+}
+
+h3 span{
+    color:#21bace;
+}
+
+h4 span{
+    color:#21bace;
+}
+
+h5 span{
+    color:#21bace;
+}
+
+p span{
+    color:#21bace;
+}
+
+/*all overlay*/
+.overlay {
+    background-color: rgba(45,54,60,0.6);
+}
+.home-overlay {
+    background-color: rgba(41, 39, 34, 0.90);
+}
+
+.video_overlay {
+    background-color: rgba(41, 39, 34, 0.80);
+}
+
+
+.yam_separator_left{
+    background: #21bace;
+}
+
+.separatorhome3auto1{
+    background-color: #21bace;
+}
+
+.separatorhome3auto{
+    background-color: #21bace;
+}
+
+
+.btn:hover{
+    background: #21bace;
+    color:#fff;
+}
+.btn-yellow{
+    background-color: #21bace;
+    border-color: #21bace;
+}
+.btn-oreng{
+    background-color: #21bace;
+    border-color: #21bace;
+}
+
+.btn-primary{
+    background-color: #111f28;
+}
+
+.hvr-bounce-to-bottom:before {
+    background: #111f28;
+}
+
+a i.share{
+    color:#21bace;
+}
+
+
+.navbar-default.home1_menu .navbar-nav>.active>a, .navbar-default.home1_menu .navbar-nav>.active>a:hover, .navbar-default.home1_menu .navbar-nav>.active>a:focus{
+    color:#21bace;
+    outline: none;
+}
+.navbar-default.lli_menu  .navbar-nav>.active>a, .navbar-default.lli_menu .navbar-nav>.active>a:hover, .navbar-default.lli_menu .navbar-nav>.active>a:focus{
+    color:#21bace;
+    outline: none;
+}
+.navbar-default.yam_menu  .navbar-nav>.active>a, .navbar-default.yam_menu .navbar-nav>.active>a:hover, .navbar-default.yam_menu .navbar-nav>.active>a:focus{
+    color:#21bace;
+    outline: none;
+}
+
+/*Home One*/
+nav.navbar.home1_menu.bootsnav li.dropdown ul.dropdown-menu{
+    background: #21bace;
+}
+nav.navbar.home1_menu.bootsnav li.dropdown ul.dropdown-menu > li a:hover, nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li a:hover{
+    background-color:#111f28 ;
+}
+/*Home Two*/
+nav.navbar.lli_menu.bootsnav li.dropdown ul.dropdown-menu{
+    background: #21bace;
+}
+nav.navbar.lli_menu.bootsnav li.dropdown ul.dropdown-menu > li a:hover, nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li a:hover{
+    background-color: #111f28;
+}
+
+/*Home Three*/
+nav.navbar.yam_menu.bootsnav li.dropdown ul.dropdown-menu{
+    background: #21bace;
+}
+
+/* Portrait tablets and small desktops */
+@media (max-width: 992px) {
+    /*nam mobail menu*/
+    nav.navbar.home1_menu.bootsnav.navbar-mobile .navbar-collapse{
+        background-color: #21bace;
+    }
+    nav.navbar.lli_menu.bootsnav.navbar-mobile .navbar-collapse{
+        background-color: #21bace;
+    }
+    nav.navbar.yam_menu.bootsnav.navbar-mobile .navbar-collapse{
+        background-color: #21bace;
+    }
+}
+
+
+
+.head_top_socail_bg{
+    background: #21bace;
+}
+
+.home1_menu .call_us_area ul li span.icon{
+    color: #21bace;
+}
+.home1_slider .carousel-control.left:hover{
+    background: #21bace;
+}
+.home1_slider .carousel-control.right:hover{
+    background: #21bace;
+}
+.thu_main_feature_area .thu_main_feature_content .thu_featuure_content_item{
+    background: #21bace;
+}
+.thu_main_feature_area .thu_main_feature_content .thu_featuure_content_item:hover{
+    background: #009eb3;
+}
+
+.thu_service_items .hexagon {
+    background-color: #21bace;
+    border-color:#009eb3;
+}
+
+.thu_service_items .hexagon:before,
+.thu_service_items .hexagon:after{
+    border-color:#009eb3;
+}
+
+.home1_main_mix_menu.main_mix_menu ul{
+    background: #21bace;
+}
+
+.thu_portfolio_menu_area_border,
+.thu_main_about_area .about_right_content .nav-tabs>li.active:before{
+    border: 1px solid #6ad1de;
+}
+.home1_mix_content .port_overfolio span.caption_icon span.icon:hover,
+.lli_work_content_area .port_overfolio span.caption_icon span.icon:hover,
+.yam_work_content_area .port_overfolio span.caption_icon span.icon:hover{
+    border: 2px solid #21bace;
+    background: #21bace;
+}
+
+
+.thu_main_solution_area .thu_solution_item_right{
+    background: #21bace;
+}
+.thu_main_solution_area .thu_solution_item_right a.btn-primary{
+    color:#21bace;
+}
+.home1_main_team_area .single_team .single_team_text{
+    background: rgba(0,158,179,0.8);
+}
+.thu_clientsfeedback_area .thu_feedback_left_skew{
+    background: #21bace;
+}
+
+.thu_clientsfeedback_area .thu_feedback_left_skew:before{
+    background: #21bace;
+}
+.thu_clientsfeedback_content_area .thu_clientsfeedback_content_right_text .carousel-indicators .active{
+    background-color:#21bace;
+}
+.thu_clientsfeedback_content_area .item_test_content i{
+    color: #21bace;
+}
+.thu_main_blog_area .thu_blog_content_area .thu_blog_items .thu_blog_items_img .blog_update_date{ 
+    background:#21bace;
+}
+.thu_blog_update_border{
+    border: 1px solid #6ad1de;
+}
+.thu_blog_content_area .thu_blog_items .thu_blog_items_content .thu_blog_items_socail_area .thu_blog_socail li a:hover{
+    color:#21bace;
+}
+.main_subcribs_area .subcribs_left_item_bg{
+    background: #21bace;
+}
+.main_subcribs_area .subcribs_left_item_bg:before{
+    background: #21bace;
+}
+.main_subcribs_content_area .subcribs_news_letter a.button{
+    background: #21bace;
+}
+.thu_main_weidget .single_weidget .wwidget_socail a:hover i{
+    background:#21bace;
+    border:1px solid #21bace;
+}
+.thu_main_weidget .single_weidget .single_widget_blog:hover a{
+    color:#21bace;
+}
+.thu_main_weidget .single_weidget ul li:hover a{
+    color:#21bace;
+}
+
+.thu_main_weidget .single_weidget ul li:hover span.icon{
+    color:#21bace;
+}
+.footer{
+    background: #21bace;
+}
+
+.scrollup .hexagon {
+    background-color: #21bace;
+}
+
+
+
+/*==============================
+Home lli
+==============================*/
+
+.home2_slider .home_slider_text h1 span{
+    color:#21bace;
+}
+.home2_slider .carousel-control:hover{
+    background: #21bace;
+}
+.home2_slider .carousel-control span.text{
+    background:#21bace;
+}
+
+.lli_home .btn:hover{
+    background: #21bace ;
+}
+.lli_menu .head_top_social_area .head_top_callus ul.helpdesk li a span.icon{
+    color:#21bace;
+}
+.lli_menu .head_top_social_area .top_socail_icon_area ul li a:hover i{
+    color:#21bace;
+}
+nav.navbar.bootsnav.lli_menu ul.nav > li.active:before{
+    color:#21bace;
+}
+nav.navbar.bootsnav.lli_menu ul.nav > li.active:after{
+    color:#21bace;
+}
+nav.navbar.bootsnav.lli_menu ul.nav > li.active a{
+    color:#21bace;
+}
+.lli_attr_nav {
+    background: #21bace;
+}
+.lli_attr_nav:before{
+    border-bottom: 51px solid #21bace;
+}
+
+.lli_main_counter_area .lli_counter_item h1,
+.lli_main_counter_area .lli_counter_item h1 span {
+    color: #21bace;
+}
+.lli_main_work_menu.main_mix_menu ul li{
+    color:#c3e0e4;
+}
+
+.lli_main_about_content_area .lli_about_item_left .lli_about_queat_text{
+    background: #21bace;
+}
+.lli_main_about_content_area .lli_about_item_left .lli_about_queat_text:before{
+    border-bottom: 53px solid #21bace;
+}
+.lli_main_about_content_area .lli_about_item_right .nav-tabs>li.active:before{
+    border: 1px solid #6ad1de;
+}
+.lli_main_about_content_area .lli_about_item_right .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    background-color: #21bace;
+    border: 1px solid #21bace;
+}
+
+.lli_main_about_content_area .lli_about_item_right .nav-tabs>li>a:hover {
+    background-color: #21bace;
+    border: 1px solid #21bace;
+}
+.lli_main_counter_area .lli_counter_item h2{
+    color:#21bace;
+}
+
+.lli_main_counter_area .lli_counter_item h2 span{
+    color:#21bace;
+}
+.lli_main_work_menu.main_mix_menu ul{
+    background: #21bace;
+}
+
+.lli_portfolio_menu_area_border{
+    border: 1px solid #6ad1de;
+}
+
+.lli_work_btn_area .btn.btn-defautl-black:hover{
+    border:1px solid #21bace;
+}
+.main_lli_service_content_area .lli_service_content_head_title .service_head_left_left p{
+    color:#21bace
+}
+.main_lli_service_content_area .lli_service_left_menu .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    background-color: #21bace;
+    border: 1px solid #21bace;
+}
+.main_lli_service_content_area .lli_service_left_menu .nav-tabs>li>a:hover, .nav-tabs>li>a:focus {
+    background-color: #21bace;
+    border-color:#21bace;
+}
+
+.main_lli_service_content_area .lli_service_right_text .tabe_content_list ul li i{
+    color:#21bace;
+}
+
+.lli_main_team_area .single_team .single_team_text {
+    background: #21bace;
+}
+.lli_main_team_area .single_team .single_team_overlay p.author_pod{
+    color:#21bace;
+}
+.lli_main_news_area .lli_news_content_area .head_title h4{
+    color:#21bace;
+}
+.lli_main_news_area .lli_news_content_area .lli_news_items .thu_news_items_content{
+    background: #21bace;
+}
+.lli_testimonial_area .slide .item_test_content .item_test_img i{
+    color:#21bace;
+}
+.lli_testimonial_area .slide .carousel-control{
+    background: #6ad1de;
+}
+.lli_main_pricing_area .lli_pricing_content .lli_pricing_item .lli_pricing_item_head{
+    border-bottom: 4px solid #21bace;
+}
+
+.lli_main_pricing_area .lli_pricing_content .lli_pricing_item .lli_pricing_item_head .lli_price_area{
+    background: #21bace;
+}
+.lli_main_pricing_area .lli_pricing_content .lli_pricing_item a{
+    background: #21bace;
+}
+
+/*LLi Wedget Footer Style*/
+.lli_main_weidget .single_weidget ul li:hover a {
+    color: #21bace;
+}
+
+.lli_main_weidget .single_weidget ul li:hover span.icon {
+    color: #21bace;
+}
+
+.lli_main_weidget .single_weidget .wwidget_socail a:hover i {
+    background: #21bace;
+    border: 1px solid #21bace;
+}
+
+.lli_main_weidget .single_weidget .single_widget_blog:hover a {
+    color:#21bace;
+}
+.lli_weidget_item .input-group button.btn{
+    background: #21bace;
+}
+
+.scrollup.lli_scrollup .hexagon {
+    background-color: #21bace;
+}
+
+.img_service_overlay_right {
+    background:rgba(0,158,179,0.8);
+}
+
+
+/*=============================================================
+         Yam Home page Three
+===============================================================*/
+
+.yam_home .btn:hover{
+    background: #21bace;
+}
+nav.yam_menu .menu_border_bottom:before{
+    background-color: #21bace;
+}
+nav.navbar.bootsnav.yam_menu ul.nav li.megamenu-fw > a:hover, 
+nav.navbar.bootsnav.yam_menu ul.nav li.megamenu-fw > a:focus,
+nav.navbar.bootsnav.yam_menu ul.nav li.active > a:hover, 
+nav.navbar.bootsnav.yam_menu ul.nav li.active > a:focus, 
+nav.navbar.bootsnav.yam_menu ul.nav li.active > a{
+    color:#21bace;
+}
+.yam_banner_area .yam_banner_text .banner_title_2{
+    color:#21bace;
+}
+.yam_main_quality_area .slide .carousel-indicators li.active{
+    background-color: #21bace;
+}
+.yam_quality_content_area .yam_quality_tinny_content_area{
+    border: 5px solid #21bace;
+    border-left: 0;
+}
+.yam_main_solution_area .yam_solution_item_right{
+    background: #21bace;
+}
+.yam_main_work_menu.main_mix_menu ul li.active{
+    color:#21bace;
+}
+
+
+
+.yam_service_items .hexagon {
+    background-color: #21bace;
+    border-color: #009eb3;
+}
+
+.yam_service_items .hexagon:before,
+.yam_service_items .hexagon:after{
+    border-color: #009eb3;
+}
+
+
+.yam_main_mission .yam_mission_item.yam_mission_item_1{
+    background: #21bace;
+}
+.yam_main_mission .yam_mission_item{
+    background: #21bace;
+}
+.yam_main_mission .yam_mission_item form.form-inline .form-group{
+    background: #21bace;
+}
+.yam_main_team_area .single_team .single_team_overlay p.author_pod{
+    color:#21bace;
+}
+.yam_main_team_area .single_team .single_team_text{
+    background: rgba(0,158,179,0.9);
+}
+.yam_quality_overlay {
+    background: rgba(0,158,179,0.9);
+}
+.yam_clogo_overlay {
+    background: rgba(0,158,179,0.8);
+}
+.main_yam_client_test_item .client_test_item_icon i{
+    background: #21bace;
+}
+.main_yam_client_test_item .client_test_item_author .c_t_i_author_text h6{
+    color:#21bace;
+}
+.yam_separator{
+    background: #21bace;
+}
+
+.yam_main_blog_area .yam_blog_content_area .yam_blog_items .yam_blog_items_img .yam_update_text{
+    background: rgba(0,158,179,0.6);
+}
+.yam_main_blog_area .yam_blog_content_area .yam_blog_items .yam_blog_items_img .yam_update_text i{
+    background: #21bace;
+}
+
+/*Yam Wedget Footer Style*/
+.yam_main_weidget .single_weidget ul li:hover a {
+    color: #21bace;
+}
+.yam_main_weidget .single_weidget ul li:hover span.icon {
+    color: #21bace;
+}
+
+.yam_main_weidget .single_weidget .wwidget_socail a:hover i {
+    background: #21bace;
+    border: 1px solid #21bace;
+}
+.yam_main_weidget .single_weidget .single_widget_blog:hover a {
+    color:#21bace;
+}
+
+.scrollup.yam_scrollup .hexagon {
+    background-color: #21bace;
+}
+.yam_work_content_area .port_overfolio .caption h6{
+    color:#21bace;
+}
+
+/*==================================================
+            About Us Page
+====================================================*/
+.main_banner h2{
+    color:#21bace;
+}
+.about_banner{
+    box-shadow: 0px 0px 0px 5px #21bace;
+}
+.thu_main_counter_area .lli_counter_item h2{
+    color: #21bace;
+}
+
+.thu_main_counter_area .lli_counter_item h2 span{
+    color: #21bace;
+}
+/*
+About thu Tem
+-------------------------------------*/
+.thu_main_team_area .single_team .single_team_text {
+    background: #21bace;
+}
+
+.thu_main_team_area .single_team .single_team_overlay p.author_pod {
+    color: #21bace;
+}
+
+.thu_main_about_area .lli_main_about_content_area .lli_about_item_left .lli_about_queat_text {
+    background: #21bace;
+}
+
+.thu_main_about_area .lli_main_about_content_area .lli_about_item_left .lli_about_queat_text:before{
+    border-bottom: 54px solid #21bace;
+}
+
+.thu_main_about_area .lli_about_item_right .lli_about_tiny_content_area .lli_about_tiny_content_item h4 span.icon {
+    color: #21bace;
+}
+
+
+/*==================================================
+        Service Page
+====================================================*/
+
+/*
+Quality section
+-------------------------------------*/
+
+.thu_main_quality_area .yam_quality_content_area .yam_quality_tinny_content_area {
+    border: 5px solid #21bace;
+    border-left:0;
+}
+
+.thu_main_quality_area .yam_quality_overlay {
+    background: rgba(0,158,179,0.9);
+}
+
+.thu_main_quality_area .slide .carousel-indicators li.active {
+    background-color: #21bace;
+}
+/*
+        work section
+-----------------------------------*/
+.thu_main_work_menu.main_mix_menu ul {
+    background: #21bace;
+}
+
+.thu_work_content_area .port_overfolio span.caption_icon span.icon:hover {
+    border: 1px solid #21bace;
+    background: #21bace;
+}
+
+.main_thu_service_area .main_lli_service_content_area .lli_service_content_head_title .service_head_left_left p {
+    color: #21bace;
+}
+
+.main_thu_service_area .main_lli_service_content_area .lli_service_left_menu .nav-tabs>li>a:hover {
+    background-color: #21bace;
+    border-color: #21bace;
+}
+
+.main_thu_service_area .main_lli_service_content_area .lli_service_left_menu .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    background-color: #21bace;
+    border: 1px solid #21bace;
+}
+
+.main_thu_service_area .main_lli_service_content_area .lli_service_right_text .tabe_content_list ul li i {
+    color: #21bace;
+}
+
+/*
+Pricing section
+------------------------------------------*/
+
+.thu_main_pricing_area .lli_pricing_content .lli_pricing_item .lli_pricing_item_head {
+    border-bottom: 4px solid #21bace;
+}
+
+.thu_main_pricing_area .lli_pricing_content .lli_pricing_item .lli_pricing_item_head .lli_price_area {
+    background: #21bace;
+}
+
+.thu_main_pricing_area .lli_pricing_content .lli_pricing_item a {
+    background: #21bace;
+}
+.thu_navigation_area .pagination>li>a:hover, .pagination>li>span:hover, .pagination>li>a:focus, .pagination>li>span:focus {
+    background-color: #21bace;
+    border-color: #21bace;
+}
+
+.duration_bottom_list ul{
+    background:#21bace; 
+}
+
+.duration_bottom_list ul li{
+    border:1px solid #6ad1de;
+}
+.s_details_features_left_content ul li i{
+    color:#21bace;
+}
+.details_features_accordion .content {
+    border-bottom: 2px solid #21bace;
+}
+.blog_post_content .blog_post_item .blog_post_item_content .blog_post_item_socail_area ul li a:hover i{
+    color:#21bace;
+}
+
+.blog_post_content .blog_post_item .blog_post_item_content .redmore{
+    color:#21bace;
+}
+.single_sidebar .input-group{
+    border:5px solid #21bace;
+}
+
+.single_sidebar .input-group .btn:hover{
+    background: #21bace;
+}
+
+.single_sidebar .sidebar_head {
+    background: #21bace;
+}
+.single_sidebar .sidebar_caterories_list ul li span.icon{
+    color:#21bace;
+}
+.blog_post2_content .blog_post_item .blog_post_item_img .blog_update_date{ 
+    background:#21bace;
+}
+.blog_post2_content .blog_post_item_content .blog_post_item_socail_area{
+    background:#21bace;
+}
+.blog_post2_content .blog_post_item_content .redmore{
+    color:#21bace;
+}
+
+
+/*===========================================
+                    Blog Single Page
+=============================================*/
+.blog_single_blockqute_border {
+    border: 1px solid #6ad1de;
+}
+
+.blockqute_overlay{
+    background: rgba(0,158,179,0.85);
+}
+
+/*blog_single_feature_text*/
+
+.blog_single_feature_text .blog_single_feature_text_item ul li i{
+    color:#21bace;
+}
+.blog_single_author_area .blog_single_author_img{
+    border:20px solid #21bace;
+    border-right: 0;
+}
+.blog_single_author_area .blog_single_author_text .blog_single_author_text_head ul li a:hover i{
+    color:#21bace;
+}
+.blog_single_comments_area .comments_list_item .comments_list_item_heading_area span a.c_reply:hover{
+    color:#21bace;
+}
+/*post Comments area*/
+
+.blog_post_form_area .btn-primary{
+    background: #21bace;
+    border-color:#21bace;
+}
+.faq_main_content h6 + div.open {
+    border:1px solid #21bace;
+}
+.faq_main_content h6.open{
+    border:1px solid #21bace;
+}
+.faq_main_content h6.open:before {
+    color:#21bace;
+    border:1px solid #21bace;
+}
+/*======================================================
+                Team Single Details Page
+========================================================*/
+.team_single_details_right_area .nav-tabs>li>a:hover {
+    border-color: #21bace;
+}
+.team_single_details_right_area .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus{
+    background-color: #21bace;
+    border: 1px solid #21bace;
+}
+
+.team_single_details_right_area .nav-tabs>li>a:hover, .nav-tabs>li>a:focus {
+    background-color: #21bace;
+}
+.team_single_details_right_area .team_content_details ul li a:hover i{
+    color:#21bace;
+}
+
+/*team Skill bar*/
+.teamskillbar {
+    border:1px solid #21bace;
+}
+.teamskillbar-bar {
+    background:#21bace;
+}
+.main_get_quote_content .btn{
+    background: #21bace;
+    border:1px solid #21bace;
+}
+.main_error_area .error_text h1{
+    color:#21bace;
+}
+.main_error_area .input-group-addon{
+    background-color: #21bace;
+    border:1px solid #21bace;
+}
+/*===============================================
+            Contact Us Page
+==================================================*/
+
+.main_contactus_content .form-group .btn{
+    background: #21bace;
+    border:1px solid #21bace;
+}
+
+/*===============================================
+            Comming Soon Page
+==================================================*/
+.comming{
+    border-bottom: 5px solid #21bace;
+}
+.comming_soon_date_time ul li span{
+    color:#21bace;
+}
+.comming_soon_socail ul li a:hover i{
+    border:1px solid #21bace;
+    background: #21bace;
+}
+.comming_soon_text .input-group-addon {
+    background: #21bace;
+}
+
+
+li.lli_effect a::before,
+li.lli_effect a::after{
+    color:#21bace;
+}

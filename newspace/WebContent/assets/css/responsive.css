@@ -1,0 +1,214 @@
+
+/*
+Author: Bootstrapthemes
+Author URI: http://www.xpeedstudio.com
+*/
+
+/* Portrait tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1280px) {
+    .btn {
+        min-width: 150px;
+        padding: 15px 10px;
+    }
+    .main-product-slid .btns {
+        text-align: left;
+        padding-left: 40px;
+    }
+    .featured-items {
+        width: 375px;
+    }
+    .product-slider .slick-dots {
+        left: -35px;
+    }
+
+
+    #map {
+      height: 400px;
+    }
+
+}
+
+
+/* Specialy for menu and slider dots */
+@media (min-width: 992px) and (max-width: 1023px) {
+    .no-background .hv2-main-menu-bg {
+        margin-top: 0;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        margin-top: 20px;
+    }
+    .navbar-brand {
+      height: 70px;
+      padding: 30px 15px;
+    }
+}
+
+
+/* Portrait tablets and small desktops */
+@media (max-width: 991px) {
+    .no-background .hv2-main-menu-bg {
+        margin-top: 0;
+    }
+    .call-us-text .form-group .form-control {
+        width: 200px;
+    }
+    .call-us-number {
+      margin-top: 0;
+    }
+    nav.navbar.scroll_menu .call-us-area{
+        margin-top:-83px;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        margin-top: 20px;
+    }
+    nav.navbar.bootsnav .navbar-nav > li:first-child > a {
+        border-top: 1px solid transparent;
+    }
+    .navbar-brand {
+      height: 66px;
+    }
+    .featured-slide {
+        margin-top: 20px;
+        padding-left: 0;
+    }
+    .featured-items {
+        width: 100%;
+    }
+    .featured-items .slick-arrow {
+        left: -10%;
+    }
+    .main-product-slid {
+        background: rgba(32,56,250,0.3);
+    }
+    .main-product-slid .btns {
+        margin-bottom: 20px;
+    }
+    .product-slider .slick-dots {
+        left: -30px;
+    }
+    .service-item {
+        margin: 30px 0;
+    }
+
+
+    #map {
+      height: 300px;
+    }
+
+
+    .grid-item {
+        height: 140px !important; 
+    }
+    .grid-item--height2 { height: 280px !important;}
+
+
+    .sm-m-top-0{
+        margin-top:0;
+    }
+    .sm-m-top-30{
+        margin-top:30px;
+    }
+    .sm-m-top-40{
+        margin-top:40px;
+    }
+
+
+/*    .sm-m-top-10{
+        margin-top:10px;
+    }
+    .sm-m-top-20{
+        margin-top:20px;
+    }
+    .sm-m-top-35{
+        margin-top:35px;
+    }
+    .sm-m-top-50{
+        margin-top:50px;
+    }
+    .sm-m-top-60{
+        margin-top:60px;
+    }
+    .sm-m-top-65{
+        margin-top:65px;
+    }
+    .sm-m-top-70{
+        margin-top:70px;
+    }
+    .sm-m-top-80{
+        margin-top:80px;
+    }
+    .sm-m-top-100{
+        margin-top:80px;
+    }*/
+
+
+    
+    
+
+}
+
+
+/* Landscape phones and portrait tablets */
+@media  (max-width: 767px) {
+    .call-us-number {
+        text-align: center;
+    }
+    .call-us-area .call-us-number ul li {
+        margin: 5px 0 20px 35px;
+    }
+    nav.navbar.scroll_menu .call-us-area {
+      margin-top: -140px;
+    }
+    .main-product {
+        background-size: cover;
+    }
+    .newsletter-content .form-inline .form-group {
+      width: 100%;
+    }
+
+    .grid-item, .grid-sizer {width: 50%;}
+    .grid-item--width2 { width: 100%;}
+    .grid-item {
+        height: 178px !important; 
+    }
+    .grid-item--height2 { height: 356px !important;}
+
+
+
+    .xs-m-top-40{
+        margin-top:40px;
+    }
+    .xs-m-top-0{
+        margin-top:0;
+    }
+
+
+/*    .xs-m-top-10{
+        margin-top:10px;
+    }
+    .xs-m-top-20{
+        margin-top:20px;
+    }
+    .xs-m-top-30{
+        margin-top:30px;
+    }
+    .xs-m-top-35{
+        margin-top:35px;
+    }
+    .xs-m-top-50{
+        margin-top:50px;
+    }
+    .xs-m-top-60{
+        margin-top:60px;
+    }
+    .xs-m-top-65{
+        margin-top:65px;
+    }
+    .xs-m-top-70{
+        margin-top:70px;
+    }
+    .xs-m-top-80{
+        margin-top:80px;
+    }*/
+
+}

@@ -1,0 +1,118 @@
+
+
+
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu{
+    border-top-color:#4ABDAC;
+}
+.controls button.active:before{
+    border-bottom-color:#4ABDAC;
+}
+.pricing-item-hv2 .btn.btn-default:hover, .advertising-content .btn.btn-default:hover, .hv2-slider .btn.btn-default:hover,
+.newsletterv2-content .btn.btn-default:focus, 
+.newsletterv2-content .btn.btn-default:active,
+.newsletterv2-content .btn.btn-default:hover,
+.newsletterv2-content .btn.btn-default,
+.pricing-item-hv2 .btn.btn-default:hover, 
+.pricing-item-hv2 .btn.btn-default,
+.main-everything .carousel-indicators li.active,
+.call-us-area span.icon{
+    border-color:#4ABDAC;
+}
+
+/*rgba colors*/
+.side::-webkit-scrollbar-thumb{
+    -webkit-box-shadow: inset 0 0 6px #4ABDAC; 
+    background-color: #4ABDAC;
+}
+.weidgetv2-item .service .item-service .custom-hover,
+.studies-overlay{
+    background-color:rgba(248, 98, 81, 0.80);
+}
+
+/*colors*/
+.blog-head-btn .btn.btn-default:hover, .pricing-item-hv2.advance .btn.btn-default:hover, .main-localseo-hv2 .btn.btn-default:hover,
+.pricing-item-hv2 .btn:before, .advertising-content .btn:before, .main-localseo-hv2 .btn:before, .hv2-slider .btn:before,
+.main-studies .studies-item .studies-conten h4 a,
+nav.navbar.bootsnav.no-background.white ul.nav > li:hover > a,
+.main-newest-blog .slick-arrow,
+.btn:before,
+.hv2-main-footer .copyright-text span.fa,
+.hv2-main-footer .copyright-text span,
+.controls button.active,
+.text-primary,
+.call-us-area .top-info,
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li a:hover,
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li a:hover,
+nav.navbar.bootsnav .navbar-nav > li > a:hover, 
+nav.navbar.bootsnav .navbar-nav > li > a:focus{
+    color:#4ABDAC;
+}
+/*bg colors*/
+.customer-hv2,
+.blog-head-btn .btn:hover.btn:before, .pricing-item-hv2.advance .btn:hover.btn:before, .main-localseo-hv2 .btn:hover.btn:before,
+.separator span,
+.newsletterv1-content.newsletterv4 .form-inline button.btn:hover,
+.everything-faq .panel-title a[aria-expanded="false"]:before,
+.community-list,
+.newsletterv2-content .btn.btn-default:hover,
+.hv2-newest-blog-item .item-body .btn-small,
+.hv2-bg-shape,
+.work-overlay a span,
+.pricing-item-hv2 .btn.btn-default:hover, .advertising-content .btn.btn-default:hover, .hv2-slider .btn.btn-default:hover,
+.pricing-item-hv2.advance,
+.pricing-item-hv2 .pricing-title,
+.hv2-main-menu-bg,
+.bg-primary,
+.btn.btn-primary,
+.homev1:before {
+    background-color: #4ABDAC;
+}
+
+.main-customer-hv2 .customer-item .customer-icon{
+    background-color: rgb(255, 117, 101);
+}
+
+
+
+
+.main-allies .allies-content ul li i,
+.weidgetv1-item .service li a span,
+.main-newest-blog .slick-arrow:hover,
+.btn:hover.btn:before,
+.everything-faq .panel-title a[aria-expanded="true"],
+.weidgetv1-item .widgetv1-blog .row:hover .widgev1-blog-content p,
+.weidgetv1-item .service li:hover a,
+.main-footer .copyright-text span.fa,
+.text-info {
+    color: #FE491A;
+}
+.btn.btn-default:focus, 
+.btn.btn-default:active,
+.btn.btn-default:hover,
+.parent-border:hover .pricing-item.border:after{
+    border-color:#FE491A;
+}
+
+.bg-info,
+.side .close-side,
+.home1_menu .attr-nav ul li.side-menu a,
+.newsletterv1-content.newsletterv4 .form-inline button.btn,
+.btn-small,
+.btn.btn-default:focus, .btn.btn-default:active, .btn.btn-default:hover,
+.everything-faq .panel-title a[aria-expanded="true"]:before,
+.pricing-item:hover .btn.btn-primary,
+.pricing-item:hover .pricing-heading,
+.scrollup,
+.btn.btn-primary:focus, .btn.btn-primary:active, .btn.btn-primary:hover,
+.separator2 span{
+    background-color: #FE491A;
+}
+
+/*sameothers border*/
+.side .close-side,
+.home1_menu .attr-nav ul li.side-menu a{
+    border-color:#f7b12c;
+}
+.widgetv1-blog-overlay{
+    background-color: #FE491A;
+}

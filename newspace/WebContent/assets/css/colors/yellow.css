@@ -1,0 +1,778 @@
+
+/*Preloader*/
+#loading{
+    background-color: #ffb902;
+}
+/*
+Home one css
+*/
+h1 span{
+    color:#ffb902;
+}
+
+h2 span{
+    color:#ffb902;
+}
+
+h3 span{
+    color:#ffb902;
+}
+
+h4 span{
+    color:#ffb902;
+}
+
+h5 span{
+    color:#ffb902;
+}
+
+p span{
+    color:#ffb902;
+}
+
+/*all overlay*/
+.overlay {
+    background-color: rgba(45,54,60,0.6);
+}
+.home-overlay {
+    background-color: rgba(41, 39, 34, 0.90);
+}
+
+.video_overlay {
+    background-color: rgba(41, 39, 34, 0.80);
+}
+
+
+.yam_separator_left{
+    background: #ffb902;
+}
+
+.separatorhome3auto1{
+    background-color: #ffb902;
+}
+
+.separatorhome3auto{
+    background-color: #ffb902;
+}
+
+
+.btn:hover{
+    background: #ffb902;
+    color:#fff;
+}
+.btn-yellow{
+    background-color: #ffb902;
+    border-color: #ffb902;
+}
+.btn-oreng{
+    background-color: #ffb902;
+    border-color: #ffb902;
+}
+
+.btn-primary{
+    background-color: #111f28;
+}
+
+.hvr-bounce-to-bottom:before {
+    background: #111f28;
+}
+
+a i.share{
+    color:#ffb902;
+}
+
+
+.navbar-default.home1_menu .navbar-nav>.active>a, .navbar-default.home1_menu .navbar-nav>.active>a:hover, .navbar-default.home1_menu .navbar-nav>.active>a:focus{
+    color:#ffb902;
+    outline: none;
+}
+.navbar-default.lli_menu  .navbar-nav>.active>a, .navbar-default.lli_menu .navbar-nav>.active>a:hover, .navbar-default.lli_menu .navbar-nav>.active>a:focus{
+    color:#ffb902;
+    outline: none;
+}
+.navbar-default.yam_menu  .navbar-nav>.active>a, .navbar-default.yam_menu .navbar-nav>.active>a:hover, .navbar-default.yam_menu .navbar-nav>.active>a:focus{
+    color:#ffb902;
+    outline: none;
+}
+
+/*Home One*/
+nav.navbar.home1_menu.bootsnav li.dropdown ul.dropdown-menu{
+    background: #ffb902;
+}
+nav.navbar.home1_menu.bootsnav li.dropdown ul.dropdown-menu > li a:hover, nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li a:hover{
+    background-color:#111f28 ;
+}
+/*Home Two*/
+nav.navbar.lli_menu.bootsnav li.dropdown ul.dropdown-menu{
+    background: #ffb902;
+}
+nav.navbar.lli_menu.bootsnav li.dropdown ul.dropdown-menu > li a:hover, nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li a:hover{
+    background-color: #111f28;
+}
+
+/*Home Three*/
+nav.navbar.yam_menu.bootsnav li.dropdown ul.dropdown-menu{
+    background: #ffb902;
+}
+
+/* Portrait tablets and small desktops */
+@media (max-width: 992px) {
+    /*nam mobail menu*/
+    nav.navbar.home1_menu.bootsnav.navbar-mobile .navbar-collapse{
+        background-color: #ffb902;
+    }
+    nav.navbar.lli_menu.bootsnav.navbar-mobile .navbar-collapse{
+        background-color: #ffb902;
+    }
+    nav.navbar.yam_menu.bootsnav.navbar-mobile .navbar-collapse{
+        background-color: #ffb902;
+    }
+}
+
+
+
+.head_top_socail_bg{
+    background: #ffb902;
+}
+
+.home1_menu .call_us_area ul li span.icon{
+    color: #ffb902;
+}
+.home1_slider .carousel-control.left:hover{
+    background: #ffb902;
+}
+.home1_slider .carousel-control.right:hover{
+    background: #ffb902;
+}
+.thu_main_feature_area .thu_main_feature_content .thu_featuure_content_item{
+    background: #ffb902;
+}
+.thu_main_feature_area .thu_main_feature_content .thu_featuure_content_item:hover{
+    background: #f4b202;
+}
+
+.thu_service_items .hexagon {
+    background-color: #ffb902;
+    border-color:#ffb902;
+}
+
+.thu_service_items .hexagon:before {
+    border-color:#ffb902;
+}
+
+.thu_service_items .hexagon:after {
+    border-color:#ffb902;
+}
+
+
+.home1_main_mix_menu.main_mix_menu ul{
+    background: #ffb902;
+}
+
+/*.thu_portfolio_menu_area_border{
+    border: 1px solid #ffce4e;
+}*/
+.thu_portfolio_menu_area_border,
+.thu_main_about_area .about_right_content .nav-tabs>li.active:before{
+    border: 1px solid #ffce4e;
+}
+.home1_mix_content .port_overfolio span.caption_icon span.icon:hover,
+.lli_work_content_area .port_overfolio span.caption_icon span.icon:hover,
+.yam_work_content_area .port_overfolio span.caption_icon span.icon:hover{
+    border: 2px solid #ffb902;
+    background: #ffb902;
+}
+
+
+.thu_main_solution_area .thu_solution_item_right{
+    background: #ffb902;
+}
+.thu_main_solution_area .thu_solution_item_right a.btn-primary{
+    color:#ffb902;
+}
+.home1_main_team_area .single_team .single_team_text{
+    background: rgba(250, 183, 4, 0.9);
+}
+.thu_clientsfeedback_area .thu_feedback_left_skew{
+    background: #ffb902;
+}
+
+.thu_clientsfeedback_area .thu_feedback_left_skew:before{
+    background: #ffb902;
+}
+.thu_clientsfeedback_content_area .thu_clientsfeedback_content_right_text .carousel-indicators .active{
+    background-color:#ffb902;
+}
+.thu_clientsfeedback_content_area .item_test_content i{
+    color: #ffb902;
+}
+.thu_main_blog_area .thu_blog_content_area .thu_blog_items .thu_blog_items_img .blog_update_date{ 
+    background:#ffb902;
+}
+.thu_blog_update_border{
+    border: 1px solid #ffce4e;
+}
+.thu_blog_content_area .thu_blog_items .thu_blog_items_content .thu_blog_items_socail_area .thu_blog_socail li a:hover{
+    color:#ffb902;
+}
+.main_subcribs_area .subcribs_left_item_bg{
+    background: #ffb902;
+}
+.main_subcribs_area .subcribs_left_item_bg:before{
+    background: #ffb902;
+}
+.main_subcribs_content_area .subcribs_news_letter a.button{
+    background: #ffb902;
+}
+.thu_main_weidget .single_weidget .wwidget_socail a:hover i{
+    background:#ffb902;
+    border:1px solid #ffb902;
+}
+.thu_main_weidget .single_weidget .single_widget_blog:hover a{
+    color:#ffb902;
+}
+.thu_main_weidget .single_weidget ul li:hover a{
+    color:#ffb902;
+}
+
+.thu_main_weidget .single_weidget ul li:hover span.icon{
+    color:#ffb902;
+}
+.footer{
+    background: #ffb902;
+}
+
+.scrollup .hexagon {
+    background-color: #ffb902;
+}
+
+
+
+/*==============================
+Home lli
+==============================*/
+
+.home2_slider .home_slider_text h1 span{
+    color:#ffb902;
+}
+.home2_slider .carousel-control:hover{
+    background: #ffb902;
+}
+.home2_slider .carousel-control span.text{
+    background:#ffb902;
+}
+
+.lli_home .btn:hover{
+    background: #ffb902 ;
+}
+.lli_menu .head_top_social_area .head_top_callus ul.helpdesk li a span.icon{
+    color:#ffb902;
+}
+.lli_menu .head_top_social_area .top_socail_icon_area ul li a:hover i{
+    color:#ffb902;
+}
+nav.navbar.bootsnav.lli_menu ul.nav > li.active:before{
+    color:#ffb902;
+}
+nav.navbar.bootsnav.lli_menu ul.nav > li.active:after{
+    color:#ffb902;
+}
+nav.navbar.bootsnav.lli_menu ul.nav > li.active a{
+    color:#ffb902;
+}
+.lli_attr_nav {
+    background: #ffb902;
+}
+.lli_attr_nav:before{
+    border-bottom: 51px solid #ffb902;
+}
+
+.lli_main_counter_area .lli_counter_item h1,
+.lli_main_counter_area .lli_counter_item h1 span {
+    color: #ffb902;
+}
+
+.lli_main_about_content_area .lli_about_item_left .lli_about_queat_text{
+    background: #ffb902;
+}
+.lli_main_about_content_area .lli_about_item_left .lli_about_queat_text:before{
+    border-bottom: 53px solid #ffb902;
+}
+.lli_main_about_content_area .lli_about_item_right .nav-tabs>li.active:before{
+    border: 1px solid #ffce4e;
+}
+.lli_main_about_content_area .lli_about_item_right .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    background-color: #ffb902;
+    border: 1px solid #ffb902;
+}
+
+.lli_main_about_content_area .lli_about_item_right .nav-tabs>li>a:hover {
+    background-color: #ffb902;
+    border: 1px solid #ffb902;
+}
+.lli_main_counter_area .lli_counter_item h2{
+    color:#ffb902;
+}
+
+.lli_main_counter_area .lli_counter_item h2 span{
+    color:#ffb902;
+}
+.lli_main_work_menu.main_mix_menu ul{
+    background: #ffb902;
+}
+
+.lli_portfolio_menu_area_border{
+    border: 1px solid #ffce4e;
+}
+
+.lli_work_btn_area .btn.btn-defautl-black:hover{
+    border:1px solid #ffb902;
+}
+.main_lli_service_content_area .lli_service_content_head_title .service_head_left_left p{
+    color:#ffb902
+}
+.main_lli_service_content_area .lli_service_left_menu .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    background-color: #ffb902;
+    border: 1px solid #ffb902;
+}
+.main_lli_service_content_area .lli_service_left_menu .nav-tabs>li>a:hover, .nav-tabs>li>a:focus {
+    background-color: #ffb902;
+    border-color:#ffb902;
+}
+
+.main_lli_service_content_area .lli_service_right_text .tabe_content_list ul li i{
+    color:#ffb902;
+}
+
+.lli_main_team_area .single_team .single_team_text {
+    background: #ffb902;
+}
+.lli_main_team_area .single_team .single_team_overlay p.author_pod{
+    color:#ffb902;
+}
+.lli_main_news_area .lli_news_content_area .head_title h4{
+    color:#ffb902;
+}
+.lli_main_news_area .lli_news_content_area .lli_news_items .thu_news_items_content{
+    background: #ffb902;
+}
+.lli_testimonial_area .slide .item_test_content .item_test_img i{
+    color:#ffb902;
+}
+.lli_testimonial_area .slide .carousel-control{
+    background: #ffce4e;
+}
+.lli_main_pricing_area .lli_pricing_content .lli_pricing_item .lli_pricing_item_head{
+    border-bottom: 4px solid #ffb902;
+}
+
+.lli_main_pricing_area .lli_pricing_content .lli_pricing_item .lli_pricing_item_head .lli_price_area{
+    background: #ffb902;
+}
+.lli_main_pricing_area .lli_pricing_content .lli_pricing_item a{
+    background: #ffb902;
+}
+
+/*LLi Wedget Footer Style*/
+.lli_main_weidget .single_weidget ul li:hover a {
+    color: #ffb902;
+}
+
+.lli_main_weidget .single_weidget ul li:hover span.icon {
+    color: #ffb902;
+}
+
+.lli_main_weidget .single_weidget .wwidget_socail a:hover i {
+    background: #ffb902;
+    border: 1px solid #ffb902;
+}
+
+.lli_main_weidget .single_weidget .single_widget_blog:hover a {
+    color:#ffb902;
+}
+.lli_weidget_item .input-group button.btn{
+    background: #ffb902;
+}
+
+.scrollup.lli_scrollup .hexagon {
+    background-color: #ffb902;
+}
+
+.img_service_overlay_right {
+    background:rgba(255,185,2,0.8);
+}
+
+
+/*=============================================================
+         Yam Home page Three
+===============================================================*/
+
+.yam_home .btn:hover{
+    background: #ffb902;
+}
+nav.yam_menu .menu_border_bottom:before{
+    background-color: #ffb902;
+}
+nav.navbar.bootsnav.yam_menu ul.nav li.megamenu-fw > a:hover, 
+nav.navbar.bootsnav.yam_menu ul.nav li.megamenu-fw > a:focus,
+nav.navbar.bootsnav.yam_menu ul.nav li.active > a:hover, 
+nav.navbar.bootsnav.yam_menu ul.nav li.active > a:focus, 
+nav.navbar.bootsnav.yam_menu ul.nav li.active > a{
+    color:#ffb902;
+}
+.yam_banner_area .yam_banner_text .banner_title_2{
+    color:#ffb902;
+}
+.yam_main_quality_area .slide .carousel-indicators li.active{
+    background-color: #ffb902;
+}
+.yam_quality_content_area .yam_quality_tinny_content_area{
+    border: 5px solid #ffb902;
+    border-left: 0;
+}
+.yam_main_solution_area .yam_solution_item_right{
+    background: #ffb902;
+}
+.yam_main_work_menu.main_mix_menu ul li.active{
+    color:#ffb902;
+}
+
+
+
+.yam_service_items .hexagon {
+    background-color: #ffb902;
+    border-color: #ebad09;
+}
+
+.yam_service_items .hexagon:before {
+    border-color: #ebad09;
+}
+
+.yam_service_items .hexagon:after {
+    border-color: #ebad09;
+}
+
+.yam_main_mission .yam_mission_item.yam_mission_item_1{
+    background: #ffb902;
+}
+.yam_main_mission .yam_mission_item{
+    background: #ffb902;
+}
+.yam_main_mission .yam_mission_item form.form-inline .form-group{
+    background: #ffb902;
+}
+.yam_main_team_area .single_team .single_team_overlay p.author_pod{
+    color:#ffb902;
+}
+.yam_main_team_area .single_team .single_team_text{
+    background: rgba(255,185,2,0.9);
+}
+.yam_quality_overlay {
+    background: rgba(255,185,2,0.9);
+}
+.yam_clogo_overlay {
+    background: rgba(255,185,2,0.8);
+}
+.main_yam_client_test_item .client_test_item_icon i{
+    background: #ffb902;
+}
+.main_yam_client_test_item .client_test_item_author .c_t_i_author_text h6{
+    color:#ffb902;
+}
+.yam_separator{
+    background: #ffb902;
+}
+
+.yam_main_blog_area .yam_blog_content_area .yam_blog_items .yam_blog_items_img .yam_update_text{
+    background: rgba(255,185,2,0.6);
+}
+.yam_main_blog_area .yam_blog_content_area .yam_blog_items .yam_blog_items_img .yam_update_text i{
+    background: #ffb902;
+}
+
+/*Yam Wedget Footer Style*/
+.yam_main_weidget .single_weidget ul li:hover a {
+    color: #ffb902;
+}
+.yam_main_weidget .single_weidget ul li:hover span.icon {
+    color: #ffb902;
+}
+
+.yam_main_weidget .single_weidget .wwidget_socail a:hover i {
+    background: #ffb902;
+    border: 1px solid #ffb902;
+}
+.yam_main_weidget .single_weidget .single_widget_blog:hover a {
+    color:#ffb902;
+}
+
+.scrollup.yam_scrollup .hexagon {
+    background-color: #ffb902;
+}
+.yam_work_content_area .port_overfolio .caption h6{
+    color:#ffb902;
+}
+
+/*==================================================
+            About Us Page
+====================================================*/
+.main_banner h2{
+    color:#ffb902;
+}
+.about_banner{
+    box-shadow: 0px 0px 0px 5px #ffb902;
+}
+.thu_main_counter_area .lli_counter_item h2{
+    color: #ffb902;
+}
+
+.thu_main_counter_area .lli_counter_item h2 span{
+    color: #ffb902;
+}
+/*
+About thu Tem
+-------------------------------------*/
+.thu_main_team_area .single_team .single_team_text {
+    background: #ffb902;
+}
+
+.thu_main_team_area .single_team .single_team_overlay p.author_pod {
+    color: #ffb902;
+}
+
+.thu_main_about_area .lli_main_about_content_area .lli_about_item_left .lli_about_queat_text {
+    background: #ffb902;
+}
+
+.thu_main_about_area .lli_main_about_content_area .lli_about_item_left .lli_about_queat_text:before{
+    border-bottom: 54px solid #ffb902;
+}
+
+.thu_main_about_area .lli_about_item_right .lli_about_tiny_content_area .lli_about_tiny_content_item h4 span.icon {
+    color: #ffb902;
+}
+
+
+/*==================================================
+        Service Page
+====================================================*/
+
+/*
+Quality section
+-------------------------------------*/
+
+.thu_main_quality_area .yam_quality_content_area .yam_quality_tinny_content_area {
+    border: 5px solid #ffb902;
+    border-left:0;
+}
+
+.thu_main_quality_area .yam_quality_overlay {
+    background: rgba(255,185,2,0.9);
+}
+
+.thu_main_quality_area .slide .carousel-indicators li.active {
+    background-color: #ffb902;
+}
+/*
+        work section
+-----------------------------------*/
+.thu_main_work_menu.main_mix_menu ul {
+    background: #ffb902;
+}
+
+.thu_work_content_area .port_overfolio span.caption_icon span.icon:hover {
+    border: 1px solid #ffb902;
+    background: #ffb902;
+}
+
+.main_thu_service_area .main_lli_service_content_area .lli_service_content_head_title .service_head_left_left p {
+    color: #ffb902;
+}
+
+.main_thu_service_area .main_lli_service_content_area .lli_service_left_menu .nav-tabs>li>a:hover {
+    background-color: #ffb902;
+    border-color: #ffb902;
+}
+
+.main_thu_service_area .main_lli_service_content_area .lli_service_left_menu .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    background-color: #ffb902;
+    border: 1px solid #ffb902;
+}
+
+.main_thu_service_area .main_lli_service_content_area .lli_service_right_text .tabe_content_list ul li i {
+    color: #ffb902;
+}
+
+/*
+Pricing section
+------------------------------------------*/
+
+.thu_main_pricing_area .lli_pricing_content .lli_pricing_item .lli_pricing_item_head {
+    border-bottom: 4px solid #ffb902;
+}
+
+.thu_main_pricing_area .lli_pricing_content .lli_pricing_item .lli_pricing_item_head .lli_price_area {
+    background: #ffb902;
+}
+
+.thu_main_pricing_area .lli_pricing_content .lli_pricing_item a {
+    background: #ffb902;
+}
+.thu_navigation_area .pagination>li>a:hover, .pagination>li>span:hover, .pagination>li>a:focus, .pagination>li>span:focus {
+    background-color: #ffb902;
+    border-color: #ffb902;
+}
+
+.duration_bottom_list ul{
+    background:#ffb902; 
+}
+
+.duration_bottom_list ul li{
+    border:1px solid #ffce4e;
+}
+.s_details_features_left_content ul li i{
+    color:#ffb902;
+}
+.details_features_accordion .content {
+    border-bottom: 2px solid #ffb902;
+}
+.blog_post_content .blog_post_item .blog_post_item_content .blog_post_item_socail_area ul li a:hover i{
+    color:#ffb902;
+}
+
+.blog_post_content .blog_post_item .blog_post_item_content .redmore{
+    color:#ffb902;
+}
+.single_sidebar .input-group{
+    border:5px solid #ffb902;
+}
+
+.single_sidebar .input-group .btn:hover{
+    background: #ffb902;
+}
+
+.single_sidebar .sidebar_head {
+    background: #ffb902;
+}
+.single_sidebar .sidebar_caterories_list ul li span.icon{
+    color:#ffb902;
+}
+.blog_post2_content .blog_post_item .blog_post_item_img .blog_update_date{ 
+    background:#ffb902;
+}
+.blog_post2_content .blog_post_item_content .blog_post_item_socail_area{
+    background:#ffb902;
+}
+.blog_post2_content .blog_post_item_content .redmore{
+    color:#ffb902;
+}
+
+
+/*===========================================
+                    Blog Single Page
+=============================================*/
+.blog_single_blockqute_border {
+    border: 1px solid #ffce4e;
+}
+
+.blockqute_overlay{
+    background: rgba(255,185,2,0.85);
+}
+
+/*blog_single_feature_text*/
+
+.blog_single_feature_text .blog_single_feature_text_item ul li i{
+    color:#ffb902;
+}
+.blog_single_author_area .blog_single_author_img{
+    border:20px solid #ffb902;
+    border-right: 0;
+}
+.blog_single_author_area .blog_single_author_text .blog_single_author_text_head ul li a:hover i{
+    color:#ffb902;
+}
+.blog_single_comments_area .comments_list_item .comments_list_item_heading_area span a.c_reply:hover{
+    color:#ffb902;
+}
+/*post Comments area*/
+
+.blog_post_form_area .btn-primary{
+    background: #ffb902;
+    border-color:#ffb902;
+}
+.faq_main_content h6 + div.open {
+    border:1px solid #ffb902;
+}
+.faq_main_content h6.open{
+    border:1px solid #ffb902;
+}
+.faq_main_content h6.open:before {
+    color:#ffb902;
+    border:1px solid #ffb902;
+}
+/*======================================================
+                Team Single Details Page
+========================================================*/
+.team_single_details_right_area .nav-tabs>li>a:hover {
+    border-color: #ffb902;
+}
+.team_single_details_right_area .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus{
+    background-color: #ffb902;
+    border: 1px solid #ffb902;
+}
+
+.team_single_details_right_area .nav-tabs>li>a:hover, .nav-tabs>li>a:focus {
+    background-color: #ffb902;
+}
+.team_single_details_right_area .team_content_details ul li a:hover i{
+    color:#ffb902;
+}
+
+/*team Skill bar*/
+.teamskillbar {
+    border:1px solid #ffb902;
+}
+.teamskillbar-bar {
+    background:#ffb902;
+}
+.main_get_quote_content .btn{
+    background: #ffb902;
+    border:1px solid #ffb902;
+}
+.main_error_area .error_text h1{
+    color:#ffb902;
+}
+.main_error_area .input-group-addon{
+    background-color: #ffb902;
+    border:1px solid #ffb902;
+}
+/*===============================================
+            Contact Us Page
+==================================================*/
+
+.main_contactus_content .form-group .btn{
+    background: #ffb902;
+    border:1px solid #ffb902;
+}
+
+/*===============================================
+            Comming Soon Page
+==================================================*/
+.comming{
+    border-bottom: 5px solid #ffb902;
+}
+.comming_soon_date_time ul li span{
+    color:#ffb902;
+}
+.comming_soon_socail ul li a:hover i{
+    border:1px solid #ffb902;
+    background: #ffb902;
+}
+.comming_soon_text .input-group-addon {
+    background: #ffb902;
+}
+
+li.lli_effect a::before,
+li.lli_effect a::after{
+    color:#ffb902;
+}
