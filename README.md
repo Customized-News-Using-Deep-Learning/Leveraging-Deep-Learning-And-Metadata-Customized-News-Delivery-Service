@@ -32,14 +32,15 @@
 ***
 ## 화면 구성
 
-<img src="./images/화면1.png" width="700px" height="400px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="./images/화면1.png" width="700px" height="400px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="./images/화면1.png" width="700px" height="400px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-
+<img src="./images/화면1.png" width="500px" height="250px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="./images/화면2.png" width="500px" height="250px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="./images/화면3.png" width="500px" height="250px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="./images/화면4.png" width="500px" height="250px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="./images/화면5.png" width="500px" height="250px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 ***
 ## DB
 
-<img src="./images/db1.png" width="700px" height="400px" title="px(픽셀) 크기 설정" alt="db"></img><br/>
+<img src="./images/db1.png" width="600px" height="250px" title="px(픽셀) 크기 설정" alt="db"></img><br/>
 
 > 테이블
 1. 사용자 : 사용자 ID, 비밀번호, 이름, 연령대, 성별, 이메일
@@ -51,6 +52,35 @@
 ***
 ## 딥러닝
 
-> 텍스트 마이닝
+> ## 텍스트 마이닝 
 
-> Char-level-CNN
+<img src="./images/형태소1.png" width="300px" height="200px" title="px(픽셀) 크기 설정" alt="db"></img>
+<img src="./images/형태소2.png" width="300px" height="200px" title="px(픽셀) 크기 설정" alt="db"></img><br/>
+
+    형태소 분석기 패키지인 Konlpy 사용하여 안에 있는 Okt 형태소 분석기 사용
+    Word2vec 사용하여 단어 토큰화 후 코사인 유사도 비교하여 중요단어 산출
+    Glove 모델 사용하였지만 Word2vec 코사인 유사도 보다 낮아 Word2vec 사용ADd
+
+> ## 세줄 요약 TextRank 모델
+
+<img src="./images/textrank1.png" width="600px" height="350px" title="px(픽셀) 크기 설정" alt="db"></img><br/>    
+    
+    문서에서 의미 있는 단어를 추출하고, 단어의 출현 횟수와 문서의 수에 따른 각 단어의 가중치를 산출하고,
+    가중치가 높은 단어들에 대하여 연관용어 집합을 구성하고 분야별 대표 색인어를 추출하고, 
+    추출된 대표 색인어와 문서간의 유사도를 이용하여 문서를 자동으로 분류하는, 
+    본문 텍스트에서 형태소 분석을 하여, 불용어를 제거하고, 동의어를 처리하여, 단어들을 추출하는 단계 
+    추출한 각 단어들에 대하여, 각 문서에 대한 단어 가중치를 계산하고, 상기 문서에 대한 단어 가중치를 평균하여, 해당 단어의 단어 가중치를 산출하는 단계
+    문서나 산출물들을 보다 정확하게 분야별로 분류할 수 있고, 이를 통해, 보다 정확한 분야별 검색을 제공할 수 있다.
+
+> ## Char-level-CNN
+
+<img src="./images/형태소3.png" width="600px" height="350px" title="px(픽셀) 크기 설정" alt="db"></img><br/>
+
+    1. 글자 단위의 Convolutional Network 문서 분류에서 높은 성능을 보인다.
+    2. 작은 데이터셋에서는 전통적인 NLP방식이 DL방식보다 더 높은 성능을 보인다.
+    3. ConvNet은 사용자가 만든 데이터에서 좋다.(오타를 잘 잡는다)
+    4. Alphabet의 선택에 따라 성능이 많이 달라진다.
+    5. Bag-of-means 모델은 안좋다.
+    6. 모든 데이터셋에 있어 최적의 모델은 없다.( 많은 실험을 통해 데이터셋에 가장 적합한 모델을 찾아야 한다)
+
+        link : https://github.com/srviest/char-cnn-text-classification-pytorch
